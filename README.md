@@ -1,6 +1,6 @@
-# 🗓️ TimeTable Generator – React-Based Application
+# 🗓️ TimeTable Creator – React-Based Application
 
-**TimeTable Generator** is a **React.js-based web application** that allows users to **generate, view, and manage time tables** easily. It provides an **intuitive UI**, supports multiple schedules, and ensures flexibility in planning daily activities or class schedules.
+**TimeTable Creator** is a **React.js-based web application** that allows users to **generate, view, and manage time tables** easily. It provides an **intuitive UI**, supports multiple schedules, and ensures flexibility in planning daily activities or class schedules.
 
 ---
 
