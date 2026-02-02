@@ -105,10 +105,13 @@ Project me **React + JavaScript + Tailwind CSS** ka use kiya gaya hai jisme **in
       <p>Add Subject/Event Form</p>
       <img src="https://github.com/user-attachments/assets/603bfeac-bb3c-4ff6-85e6-9bd8ac427adc" width="300" alt="Add Subject/Event Form Screenshot">
     </td>
+  </tr>
 
-    <td align="center">
+  <!-- Download Table Row -->
+  <tr>
+    <td colspan="3" align="center">
       <p>Download Table</p>
-      <img src="https://github.com/user-attachments/assets/12626a47-367e-4a7c-bb1e-9d69fe1b705f" width="500" alt="Download Table Screenshot">
+      <img src="https://github.com/user-attachments/assets/12626a47-367e-4a7c-bb1e-9d69fe1b705f" width="600" alt="Download Table Screenshot">
     </td>
   </tr>
 </table>
