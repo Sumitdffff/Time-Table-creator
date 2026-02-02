@@ -1,0 +1,63 @@
+/* ===== TABLE WRAPPER ===== */
+.ReactTable {
+  border: 2px solid black;
+  font-size: 12px;
+}
+
+/* ===== HEADER ===== */
+.ReactTable .rt-thead.-header {
+  border-bottom: 2px solid black;
+}
+
+.ReactTable .rt-th {
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+  border-top: 1px solid black;
+  text-align: center;
+  font-weight: bold;
+  padding: 6px 4px;
+}
+
+/* ===== BODY ROW ===== */
+.ReactTable .rt-tr {
+  border-bottom: 1px solid black;
+}
+
+/* ===== CELL ===== */
+.ReactTable .rt-td {
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+  border-top: 1px solid black;
+  text-align: center;
+  padding: 4px 3px;
+  line-height: 1.3;
+}
+
+/* ===== DAY COLUMN (MON, TUE...) ===== */
+.ReactTable .rt-td:first-child,
+.ReactTable .rt-th:first-child {
+  font-weight: bold;
+  width: 70px;
+}
+
+/* ===== PERIOD COLUMNS ===== */
+.ReactTable .rt-th:not(:first-child),
+.ReactTable .rt-td:not(:first-child) {
+  width: 130px;
+}
+
+/* ===== LUNCH / LIBRARY / ACTIVITY ===== */
+.ReactTable .rt-td:contains("LIBRARY"),
+.ReactTable .rt-td:contains("ACTIVITY"),
+.ReactTable .rt-td:contains("HOUR") {
+  font-weight: bold;
+}
+
+/* ===== REMOVE SHADOW & GAPS ===== */
+.ReactTable .rt-table {
+  border-collapse: collapse;
+}
+
+.ReactTable .rt-tr-group {
+  border-bottom: 1px solid black;
+}

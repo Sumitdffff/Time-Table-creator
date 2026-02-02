@@ -1,0 +1,38 @@
+.timetable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 30px;
+}
+
+.timetable th,
+.timetable td {
+  border: 1px solid black;
+  text-align: center;
+  vertical-align: top;
+  padding: 6px;
+}
+
+.timetable th {
+  font-weight: bold;
+}
+
+.day {
+  font-weight: bold;
+  width: 70px;
+}
+
+.break {
+  font-weight: bold;
+  background: #f2f2f2;
+}
+
+.cell input,
+.cell select {
+  width: 85%;              /* ⬅️ textbox thodi choti (≈5mm) */
+  margin: 2px auto;        /* center align */
+  display: block;
+
+  text-align: center;      /* ⬅️ subject text center */
+  padding: 4px;
+  font-size: 13px;
+}
