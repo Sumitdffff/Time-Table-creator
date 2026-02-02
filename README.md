@@ -88,26 +88,22 @@ Project me **React + JavaScript + Tailwind CSS** ka use kiya gaya hai jisme **in
 ## 📘 Screenshots (For GitHub)
 
 <table>
-  <tr>
+     <tr>
     <td align="center">
       <p>Welcome</p>
       <img src="https://github.com/user-attachments/assets/1ead5c81-3aaf-425f-a3a0-eaddc72bbe9c" width="300" alt="Welcome Screenshot">
     </td>
-
     <td align="center">
       <p>Main Time Table</p>
       <img src="https://github.com/user-attachments/assets/ca9540b7-a999-415a-b8bf-7df0e46327eb" width="300" alt="Main Time Table Screenshot">
-      <br><br>
+      <br>
       <img src="https://github.com/user-attachments/assets/3ff477ed-9deb-460a-9c54-97e4cf234067" width="300" alt="Main Time Table Screenshot 2">
     </td>
-
     <td align="center">
       <p>Add Subject/Event Form</p>
       <img src="https://github.com/user-attachments/assets/603bfeac-bb3c-4ff6-85e6-9bd8ac427adc" width="300" alt="Add Subject/Event Form Screenshot">
     </td>
-  </tr>
-
-  <!-- Download Table Row -->
+       </tr>
   <tr>
     <td colspan="3" align="center">
       <p>Download Table</p>
